@@ -39,14 +39,7 @@ console.log(12 + 20);
 /* SCRIVI QUI LA TUA RISPOSTA */
 let x = 12;
 console.log(x);
-/* ESERCIZIO 5
-  Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
-  Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
-*/
 
-/* SCRIVI QUI LA TUA RISPOSTA */
-name = "Bilgen";
-console.log(name);
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
@@ -64,3 +57,12 @@ let name1 = "john";
 let name2 = "John";
 console.log(name1 === name2);
 console.log(name1.toLocaleLowerCase === name2.toLocaleLowerCase);
+
+/* ESERCIZIO 5
+  Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
+  Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
+*/
+
+/* SCRIVI QUI LA TUA RISPOSTA */
+name = "Bilgen";
+console.log(name);
