@@ -24,7 +24,7 @@ console.log("I Undefined e uno datatype vuoto , cioe non gli e stato dato ancora
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let name = "Kaan";
+const name = "Kaan";
 console.log(name);
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
